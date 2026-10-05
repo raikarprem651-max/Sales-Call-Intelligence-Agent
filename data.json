@@ -1,0 +1,74 @@
+[
+  {
+    "prospect": "Priya Nair",
+    "company": "Northwind Logistics",
+    "date": "2026-08-04",
+    "notes": "Call 1 (discovery) with Priya Nair, VP Operations at Northwind Logistics. Her team of 12 dispatchers plans delivery routes manually in spreadsheets and loses about 6 hours a day to it. She is interested in automation. Deal size discussed: $48,000 per year. Decision maker is Priya, but the CFO Anil Mehta signs off on any spend."
+  },
+  {
+    "prospect": "Priya Nair",
+    "company": "Northwind Logistics",
+    "date": "2026-08-12",
+    "notes": "Call 2 with Priya Nair of Northwind Logistics. She raised a pricing objection: $48,000 per year is above their $35,000 budget. She said Anil Mehta, the CFO, will only approve if we show clear ROI numbers. I offered to prepare an ROI sheet. Her tone was positive but cautious."
+  },
+  {
+    "prospect": "Priya Nair",
+    "company": "Northwind Logistics",
+    "date": "2026-08-20",
+    "notes": "Call 3 with Priya Nair of Northwind Logistics. She mentioned they are also evaluating a competitor called Zentro, which is cheaper but has weak integration with their SAP system. Priya said SAP integration is a must-have. I PROMISED to send a case study from Fleetwise, a similar logistics customer, within one week."
+  },
+  {
+    "prospect": "Priya Nair",
+    "company": "Northwind Logistics",
+    "date": "2026-09-02",
+    "notes": "Call 4 (demo) with Priya Nair of Northwind Logistics. She loved the live route dashboard. Anil Mehta, the CFO, now wants a 30-day paid pilot before committing. IT head Karan Shah needs a security review first. Priya mentioned she never received the Fleetwise case study I promised on the last call. That follow-up was missed and she was a little disappointed."
+  },
+  {
+    "prospect": "Daniel Brooks",
+    "company": "Helix Health",
+    "date": "2026-08-06",
+    "notes": "Call 1 with Daniel Brooks, Director of Procurement at Helix Health. They need to reduce time spent on patient appointment scheduling. Budget is approved at $90,000 per year. Timeline: they want to go live by end of Q4."
+  },
+  {
+    "prospect": "Daniel Brooks",
+    "company": "Helix Health",
+    "date": "2026-08-18",
+    "notes": "Call 2 with Daniel Brooks of Helix Health. Main objection is HIPAA compliance. Their legal team wants a signed Business Associate Agreement and proof of SOC 2 certification before any pilot. I promised to send our SOC 2 report and the BAA template by Friday."
+  },
+  {
+    "prospect": "Daniel Brooks",
+    "company": "Helix Health",
+    "date": "2026-08-27",
+    "notes": "Call 3 with Daniel Brooks of Helix Health. I sent the SOC 2 report and BAA on time, which he appreciated. He mentioned a competitor called Medisync that offered them a 15% discount. He asked whether we can match the discount. I said I would check with my manager."
+  },
+  {
+    "prospect": "Daniel Brooks",
+    "company": "Helix Health",
+    "date": "2026-09-10",
+    "notes": "Call 4 with Daniel Brooks of Helix Health. Legal approved the BAA. Daniel said the discount question is still open and could decide the deal versus Medisync. His champion, Dr. Meera Iyer, strongly prefers our product because of the easier interface. Next step: pricing proposal."
+  },
+  {
+    "prospect": "Sofia Alvarez",
+    "company": "Brightleaf Foods",
+    "date": "2026-08-09",
+    "notes": "Call 1 with Sofia Alvarez, Head of Sales at Brightleaf Foods. Her 25 field reps do not update the CRM consistently. She wants better pipeline visibility. Budget is around $22,000 per year. Small company, fast decision cycle."
+  },
+  {
+    "prospect": "Sofia Alvarez",
+    "company": "Brightleaf Foods",
+    "date": "2026-08-19",
+    "notes": "Call 2 with Sofia Alvarez of Brightleaf Foods. Her main worry is adoption: her reps are not tech-savvy and have rejected past tools. She asked for a hands-on training session for the team. She responded well when I showed a simple mobile-first screen."
+  },
+  {
+    "prospect": "Sofia Alvarez",
+    "company": "Brightleaf Foods",
+    "date": "2026-09-01",
+    "notes": "Call 3 with Sofia Alvarez of Brightleaf Foods. She asked for a 10% discount if they sign an annual contract. Implementation time is a concern: she needs it running within 3 weeks before their peak season. I promised a 3-week onboarding plan."
+  },
+  {
+    "prospect": "Sofia Alvarez",
+    "company": "Brightleaf Foods",
+    "date": "2026-09-15",
+    "notes": "Call 4 with Sofia Alvarez of Brightleaf Foods. She liked the 3-week onboarding plan and the training session offer. She is ready to sign if we approve the 10% discount. Waiting on internal approval from my manager."
+  }
+]
